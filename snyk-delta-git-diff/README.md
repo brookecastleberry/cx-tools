@@ -6,6 +6,8 @@
 
 This project is designed to **increase Snyk Delta scan speed by leveraging `git diff`** to focus Snyk scans on files changed in between commits. By doing so, you speed up evaluation during development, PR reviews, or CI/CD workflows.
 
+> **Note:** While this example demonstrates the approach using a .NET project, the git diff and snyk-delta scanning methodology can be applied to any Snyk-supported language or project type by adjusting the file filtering patterns.
+
 ---
 
 ## Running snyk-delta
