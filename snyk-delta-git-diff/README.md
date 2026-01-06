@@ -84,4 +84,3 @@ This will trigger your workflow so your changes are processed immediately.
 - [snyk-delta Documentation & Flags](https://github.com/snyk-tech-services/snyk-delta/blob/develop/README.md)
 
 ---
-
