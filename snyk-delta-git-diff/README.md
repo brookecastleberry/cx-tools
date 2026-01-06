@@ -83,4 +83,3 @@ This will trigger your workflow so your changes are processed immediately.
 - [Snyk CLI Manifest Detection](https://github.com/snyk/cli/blob/main/src/lib/detect.ts)
 - [snyk-delta Documentation & Flags](https://github.com/snyk-tech-services/snyk-delta/blob/develop/README.md)
 
----
